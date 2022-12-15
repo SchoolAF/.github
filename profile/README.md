@@ -17,3 +17,7 @@ My own forked Clang LLVM. Actually it's only for personal usage, but if you want
 
 - [Akebi](https://github.com/herobuxx/akebi)  
 Akebi is a bash script used to display your machine information details. It's kinda stupid ngl.
+
+## Contact me!
+You can always email me on [here](mailto:me@buxxed.tk) or [here](mailto:herobuxx@gmail.com).   
+Or if you are a Telegram user, you chech more datils [here](https://t.me/BuxxRedirect).
