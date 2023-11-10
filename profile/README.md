@@ -21,6 +21,8 @@ A project to customize Android Device's Kernel, ROM, and more.
 - [Akebi](https://github.com/herobuxx/akebi)  
 Akebi is a bash script used to display your machine information details. It's kinda stupid ngl. [Akebi.py](https://github.com/herobuxx/akebi.py) is now availabe!
 
+Also, I am curently working for DTI Universitas Logistic dan Bisnis Internasional (ULBI)!
+
 ## Contact me!
 You can always email me on [here](mailto:me@buxxed.tk) or [here](mailto:me@herobuxx.me).   
 Or if you are a Telegram user, you chech more datils [here](https://t.me/BuxxRedirect).
